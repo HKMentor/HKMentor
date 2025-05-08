@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on  Resume Builder<br><br>👯 I’m looking to collaborate on  Quiz Website<br><br>🤝 I’m looking for help with Advanced CV Generator<br><br>🌱 I’m currently learning<br>Next.js, Tailwind CSS, and advanced TypeScript<br><br>💬 Ask me about<br>React, TypeScript, and creating responsive designs<br><br>📫 How to reach me infohkmentor@gmail.com  <br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>⚡ Fun fact<br>I can spend hours debugging but still forget my coffee on the desk! 😄
+# 💫 About Me
+🎯 Focused On: Building a smart and user-friendly Resume Builder 
+🤝 Open for Collaboration: If you're working on a Quiz Website, let’s team up!
+🚧 Need Support With: Creating an Advanced CV Generator – smart, sleek, and standout
+📖 Currently Learning: Next.js, Tailwind CSS & sharpening my TypeScript skills
+💡 Ask Me About: React components, TypeScript logic, and pixel-perfect responsive designs
+📬 Let's Connect: infohkmentor@gmail.com
+🌍 See My Projects: My Portfolio – every line of code tells a story
+😄 Fun Fact: I often win battles with bugs but lose the one with my cold coffee!
+
 
 
 ## 🌐 Socials:
