@@ -1,13 +1,27 @@
-💫 About Me
-Front-end developer passionate about building smart, user-friendly apps. Currently working on a Resume Builder and learning Next.js, Tailwind CSS, and TypeScript.
+# 💫 About Me
 
-🤝 Open to collaborate on Quiz Websites and interactive projects.
-🚀 Exploring advanced CV Generators and clean, responsive UI design.
-💬 Ask me about: React, TypeScript logic, and pixel-perfect layouts.
+**Front-end developer** passionate about building smart, user-friendly apps.  
+Currently working on a **Resume Builder** and learning **Next.js**, **Tailwind CSS**, and **TypeScript**.
 
-📬 Reach out: infohkmentor@gmail.com
-🌐 Portfolio: (Add your link)
-😄 Fun Fact: I debug better than I sip my cold coffee!
+## 🤝 Open to Collaborate  
+On **Quiz Websites** and interactive projects.
+
+## 🚀 Currently Exploring  
+Advanced **CV Generators** and clean, responsive UI designs.
+
+## 💬 Ask Me About  
+**React**, **TypeScript logic**, and **pixel-perfect layouts**.
+
+## 📬 Reach Out  
+📧 infohkmentor@gmail.com
+
+## 🌐 Portfolio  
+🔗 *(Add your link here)*
+
+## 😄 Fun Fact  
+I debug better than I sip my cold coffee!
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Hooria-Fatima/pfbid0stcYVjNm2nc21e4JQBGbjhBpMME2M6AZWUje2MEuUkBHcsTuXbMBXeFMbtPA2Nvml/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hooria_codehub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hk_collection202) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Hooria_CodeHub12) 
 
