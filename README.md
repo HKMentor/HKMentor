@@ -1,22 +1,8 @@
-# 💫 About Me
-
-**Front-end developer** passionate about building smart, user-friendly apps.  
-Currently working on a **Resume Builder** and learning **Next.js**, **Tailwind CSS**, and **TypeScript**.
-
-## 🤝 Open to Collaborate  
-On **Quiz Websites** and interactive projects.
-
-## 🚀 Currently Exploring  
-Advanced **CV Generators** and clean, responsive UI designs.
-
-## 💬 Ask Me About  
-**React**, **TypeScript logic**, and **pixel-perfect layouts**.
-
-## 📬 Reach Out  
-📧 infohkmentor@gmail.com
-
-## 🌐 Portfolio  
-🔗 *(Add your link here)*
+- 🌱 I’m currently learning WEB 3.0.
+- 👯 I’m looking to collaborate on OpenSource Projects.
+- 💬 Ask me about JavaScript, TypeScript, React, and Nodejs.
+- 📫 How to reach me: malikruhama7@gmail.com.
+- 😄 Pronouns: She/Her
 
 ## 😄 Fun Fact  
 I debug better than I sip my cold coffee!
