@@ -1,7 +1,7 @@
 - 🌱 I’m currently learning WEB 3.0.
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 💬 Ask me about JavaScript, TypeScript, React, and Nodejs.
-- 📫 How to reach me: malikruhama7@gmail.com.
+- 📫 How to reach me: infohkmentor@gmail.com 
 - 😄 Pronouns: She/Her
 
 ## 😄 Fun Fact  
